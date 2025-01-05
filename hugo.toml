@@ -1,0 +1,4 @@
+baseURL = 'https://fahoom.com/'
+languageCode = 'en-gb'
+title = "fahim's scrapbook"
+theme = "nostyleplease"
