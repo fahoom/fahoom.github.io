@@ -14,3 +14,4 @@ title = 'bookmarks'
 - [jamie brandon's blog](https://www.scattered-thoughts.net/#zest)
 - [bersteinbear's list](https://bernsteinbear.com/pl-resources/)
 - [cranelift](https://github.com/bytecodealliance/wasmtime/blob/main/cranelift/docs/ir.md)
+- [llvm's middle end](https://www.npopov.com/2023/04/07/LLVM-middle-end-pipeline.html)
