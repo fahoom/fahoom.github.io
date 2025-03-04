@@ -1,4 +1,17 @@
 baseURL = 'https://fahoom.com/'
 languageCode = 'en-gb'
-title = "fahim's scrapbook"
-theme = "nostyleplease"
+title = "Fahim's Scrapbook"
+theme = "typo"
+
+[[params.menu]]
+name = "home"
+url = "/"
+
+[[params.menu]]
+name = "bookmarks"
+url = "/bookmarks"
+
+[params]
+footerContent = " "
+
+
